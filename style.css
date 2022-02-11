@@ -1,0 +1,12 @@
+.body1 {
+  margin: 10px;
+  color: #4c056d;
+  background-color: beige;
+  display: block;
+}
+.myself {
+  color: rgb(160, 106, 7);
+  border: 2px solid palevioletred;
+  background-color: beige;
+  position: relative;
+}
